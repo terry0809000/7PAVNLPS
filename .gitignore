@@ -1,0 +1,35 @@
+# Credentials and local environment
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Data, checkpoints and generated artifacts
+data/
+datasets/
+outputs/
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.safetensors
+*.npz
+*.zip
+*.7z
+
+# Dataset splits and generated experiment outputs
+train.txt
+dev.txt
+test.txt
+train200k.txt
+dev200k.txt
+test200k.txt
+pubmed_rct_outputs/
+PubMed_RCT_200k_extracted/
+requirements_snapshot.txt

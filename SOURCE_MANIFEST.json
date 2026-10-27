@@ -1,0 +1,13 @@
+{
+  "repository": "terry0809000/7PAVNLPS",
+  "source_file": "AG16013_7PAVNLPS_JupyterNotebook.ipynb",
+  "source_file_sha256": "8f9fa85bc2084f80af1cf9faccdb523b6259f91ee80953fa5b1ddb70d03328fa",
+  "archive_member": null,
+  "notebook_file": "AG16013_7PAVNLPS_JupyterNotebook.ipynb",
+  "notebook_sha256": "8f9fa85bc2084f80af1cf9faccdb523b6259f91ee80953fa5b1ddb70d03328fa",
+  "notebook_bytes": 4185645,
+  "total_cells": 172,
+  "code_cells": 99,
+  "notebook_preserved_byte_for_byte": true,
+  "experiments_rerun_during_import": false
+}

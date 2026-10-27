@@ -1,0 +1,15 @@
+# Derived from original notebook imports; no complete source package lock supplied.
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+torch
+transformers
+datasets
+accelerate
+sklearn-crfsuite
+fasttext
+psutil
+joblib
+ipython
